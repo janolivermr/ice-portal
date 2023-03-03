@@ -1,0 +1,8 @@
+{
+  "name": "ice-portal",
+  "version": "1.0.0",
+  "description": "iOS Widget for ICE Portal Details",
+  "author": "Jan Stolle",
+  "license": "ISC",
+  "type": "module"
+}
