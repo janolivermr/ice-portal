@@ -6,6 +6,7 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
+    "@types/scriptable-ios": "^1.7.0",
     "tsup": "^6.6.3"
   }
 }
