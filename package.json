@@ -4,5 +4,8 @@
   "description": "iOS Widget for ICE Portal Details",
   "author": "Jan Stolle",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "tsup": "^6.6.3"
+  }
 }
