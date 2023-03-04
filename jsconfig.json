@@ -4,6 +4,7 @@
         "lib": ["es6"]
     },
     "exclude": [
+        "dist",
         "node_modules",
         "**/node_modules/*"
     ]

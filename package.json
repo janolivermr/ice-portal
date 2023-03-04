@@ -8,5 +8,8 @@
   "devDependencies": {
     "@types/scriptable-ios": "^1.7.0",
     "tsup": "^6.6.3"
+  },
+  "scripts": {
+    "assemble": "echo '// icon-color: red; icon-glyph: subway;' > dist/speed.js; cat dist/speed.cjs >> dist/speed.js"
   }
 }
