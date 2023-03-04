@@ -1,0 +1,22 @@
+{
+    "connection": true,
+    "serviceLevel": "AVAILABLE_SERVICE",
+    "gpsStatus": "VALID",
+    "internet": "MIDDLE",
+    "latitude": 53.3225,
+    "longitude": 9.856839,
+    "tileY": 369,
+    "tileX": 18,
+    "series": null,
+    "serverTime": 1677743715357,
+    "speed": 92.0,
+    "trainType": "IC",
+    "tzn": "RPF155007",
+    "wagonClass": "SECOND",
+    "connectivity": {
+        "currentState": "NO_INFO",
+        "nextState": null,
+        "remainingTimeSeconds": null
+    },
+    "bapInstalled": false
+}
