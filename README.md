@@ -26,4 +26,4 @@ You can find the train brand logos for ICE and IC on Wikipedia:
 
 Download the 640x350px PNG version.
 
-Save all 3 files into the Scriptable documents folder, together with the compiled JavaScript file  `dist/speed.js`.
+Combine all 3 image files into a folder called `ice-portal` and save it in the Scriptable documents folder, alongside the compiled JavaScript file `dist/speed.js`.
